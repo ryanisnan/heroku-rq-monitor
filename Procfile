@@ -1,1 +1,1 @@
-web: rq-dashboard --port 80 --redis-url $REDIS_URL
+web: rq-dashboard --port 8080 --redis-url $REDIS_URL
